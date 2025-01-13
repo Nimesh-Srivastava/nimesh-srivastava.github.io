@@ -14,9 +14,9 @@ timezone: Asia/Calcutta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Nimesh Srivastava # the main title
+title: Nimesh # the main title
 
-tagline: Tensors and CUDA # it will display as the subtitle
+tagline: ML, Finance, and more # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Tech, AI, ML, Finance, Geopolitics
